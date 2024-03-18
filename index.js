@@ -5,7 +5,7 @@ const { google } = require('googleapis');
 const { Client, GatewayIntentBits } = require('discord.js');
 const dotenv = require('dotenv');
 
-//discordClient.login('MTIxNzgxNDM1NTA1MjMzMTE0OA.GLWfbI.iDI16t9cEICe-Q3d6XqA-39gTO1cCMVzcIq5zw');
+ 
 
 
 
